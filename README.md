@@ -1,9 +1,8 @@
 # Usage:
 - Install 'hping3' for all zombie server (This feature will come later.)
-
-> For Ubuntu servers:
-`sudo apt-get update`
-`sudo apt-get install hping3`
+	-For Ubuntu servers:
+	`sudo apt-get update` <br>
+	`sudo apt-get install hping3`
 > For CentOS servers:
 `yum install epel-release`
 `yum install hping3`
