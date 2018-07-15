@@ -10,7 +10,7 @@
 - Install 'screen' for all zombie server (This feature will come later.) <br>
 	-For Ubuntu servers: <br>
 	`sudo apt-get update` <br>
-	`sudo apt-get install screen`
+	`sudo apt-get install screen` <br>
 	-For CentOS servers: <br>
 	`yum -y install screen`
 
