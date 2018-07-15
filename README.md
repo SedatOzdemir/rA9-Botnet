@@ -7,7 +7,7 @@
 	`yum install epel-release` <br>
 	`yum install hping3`
 
-- Install 'screen' for all zombie server (This feature will come later.)
+- Install 'screen' for all zombie server (This feature will come later.) <br>
 	-For Ubuntu servers: <br>
 	`sudo apt-get update` <br>
 	`sudo apt-get install screen`
@@ -17,7 +17,7 @@
 - Install the requirements.txt
 `pip install -r requirements.txt `
 
-- Import server list into 'serverList' file like this syntax. (Zombie servers must be root user)
+- Import server list into 'serverList' file like this syntax. (Zombie servers must be root user) <br>
 `127.0.0.1:root:1234`
 
 - Run rA9 botnet C&C.
