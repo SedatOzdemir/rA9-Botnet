@@ -1,4 +1,6 @@
-# Usage:
+# rA9 Botnet v1.0
+
+## Usage:
 - Install 'hping3' for all zombie server (This feature will come later.)
 	- For Ubuntu servers: <br>
 	`sudo apt-get update` <br>
@@ -24,7 +26,7 @@
 `python3 rA9.py`
 
 
-# Terms Of Use
+## Terms Of Use
 1. Do NOT use this on any computer you do not own, or are not allowed to run this on.
 2. You may NEVER attempt to sell this, its free and open source.
 3. The authors and publishers assume no responsibility.
