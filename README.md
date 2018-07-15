@@ -8,10 +8,10 @@
 	`yum install hping3`
 
 - Install 'screen' for all zombie server (This feature will come later.) <br>
-	-For Ubuntu servers: <br>
+	- For Ubuntu servers: <br>
 	`sudo apt-get update` <br>
 	`sudo apt-get install screen` <br>
-	-For CentOS servers: <br>
+	- For CentOS servers: <br>
 	`yum -y install screen`
 
 - Install the requirements.txt
