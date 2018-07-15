@@ -14,7 +14,7 @@
 	- For CentOS servers: <br>
 	`yum -y install screen`
 
-- Install the requirements.txt
+- Install the requirements.txt <br>
 `pip install -r requirements.txt `
 
 - Import server list into 'serverList' file like this syntax. (Zombie servers must be root user) <br>
