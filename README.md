@@ -1,20 +1,20 @@
 # Usage:
 - Install 'hping3' for all zombie server (This feature will come later.)
 
-For Ubuntu servers:
+> For Ubuntu servers:
 `sudo apt-get update`
 `sudo apt-get install hping3`
-For CentOS servers:
+> For CentOS servers:
 `yum install epel-release`
 `yum install hping3`
 
 - Install 'screen' for all zombie server (This feature will come later.)
 
-For Ubuntu servers:
+> For Ubuntu servers:
 `sudo apt-get update`
 `sudo apt-get install screen`
 
-For CentOS servers:
+> For CentOS servers:
 `yum -y install screen`
 
 - Install the requirements.txt
