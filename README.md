@@ -25,6 +25,11 @@
 - Run rA9 botnet C&C.
 `python3 rA9.py`
 
+## Features
+1. SYN Flood Attack
+2. UDP Flood Attack
+3. ICMP Flood Attack
+4. Force Stop
 
 ## Terms Of Use
 1. Do NOT use this on any computer you do not own, or are not allowed to run this on.
