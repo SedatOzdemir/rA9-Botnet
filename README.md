@@ -1,6 +1,16 @@
 # rA9 Botnet v1.0
 
 ## Usage:
+- Install the requirements.txt <br>
+`pip install -r requirements.txt `
+
+- Import server list into 'serverList' file like this syntax. (Zombie servers must be root user) <br>
+`127.0.0.1:root:1234`
+
+- Run rA9 botnet C&C. <br>
+`python3 rA9.py`
+
+## Requirements
 - Install 'hping3' for all zombie server (This feature will come later.)
 	- For Ubuntu servers: <br>
 	`sudo apt-get update` <br>
@@ -15,15 +25,6 @@
 	`sudo apt-get install screen` <br>
 	- For CentOS servers: <br>
 	`yum -y install screen`
-
-- Install the requirements.txt <br>
-`pip install -r requirements.txt `
-
-- Import server list into 'serverList' file like this syntax. (Zombie servers must be root user) <br>
-`127.0.0.1:root:1234`
-
-- Run rA9 botnet C&C.
-`python3 rA9.py`
 
 ## Features
 1. SYN Flood Attack
