@@ -1,6 +1,6 @@
 # rA9 Botnet v1.0
 
-## Usage:
+## Usage
 - Install the requirements.txt <br>
 `pip install -r requirements.txt `
 
