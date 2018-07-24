@@ -1,4 +1,4 @@
-![alt text](https://user-images.githubusercontent.com/28827407/43148239-919e3810-8f6d-11e8-8798-3c7206f6b822.png)
+![alt text](https://user-images.githubusercontent.com/28827407/43148304-b28733c4-8f6d-11e8-83fb-0235abab51a9.png)
 
 ## Usage
 - Install the requirements.txt <br>
