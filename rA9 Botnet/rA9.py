@@ -87,7 +87,7 @@ def MainMenu():
        os.system("clear")
        print("|!| All attacks being stopped...")
        botnetCommand("pkill screen")
-       print("|+| All attacks terminated.")
+       print("|+| All attacks terminated")
 
 MainMenu()
 
